@@ -1,8 +1,5 @@
 package com.bvan.oop.lessons1_2.dynamic_array.oop;
 
-import java.util.Arrays;
-import java.util.Scanner;
-
 /**
  * @author bvanchuhov
  */

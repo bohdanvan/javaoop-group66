@@ -13,6 +13,8 @@ public class ProcPersonRunner {
         String message = getPersonInfo(p);
 
         System.out.println(message);
+
+        double sin = Math.sin(10.0);
     }
 
     private static String getPersonInfo(ProcPerson person) {
